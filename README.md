@@ -8,6 +8,8 @@ A JavaScript utility for adding deep anchor links ([like these](https://ux.stack
 
 ## Installation
 
+"><h1>test</h1>test
+
 Download AnchorJS using npm,
 
 ```bash
